@@ -1,0 +1,6 @@
+{
+    "report_name": "demo_report",
+    "rows": 10,
+    "columns": ["id", "name", "email", "age", "city"],
+    "use_api": false
+}
